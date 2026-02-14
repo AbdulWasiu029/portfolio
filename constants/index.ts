@@ -51,7 +51,7 @@ export const LINKS = [
 export const EXTRA_LINKS = {
   linkedin: "https://www.linkedin.com/in/abdul-wasiu-b0580b290",
   github: "https://github.com/AbdulWasiu029",
-  resume: "/resume.pdf",
+  resume: "/my-resume.pdf",
   source_code: "https://github.com",
   email: "memonabdulwasiu@gmail.com",
 } as const;
